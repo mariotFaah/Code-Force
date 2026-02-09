@@ -9,16 +9,12 @@ void fiche(string nom, int age, int phone){
 
 int main(){
 	fiche("Test",12,212233433);
-	char tic_tac [3][3];
-	tic_tac[0][0] = 'T';
-	tic_tac[0][1] = 'X';
-	tic_tac[0][2] = 'X';
-	tic_tac[1][0] = 'T';
-	tic_tac[1][1] = 'T';
-	tic_tac[1][2] = 'X';
-	tic_tac[2][0] = 'X';
-	tic_tac[2][1] = 'T';
-	tic_tac[2][2] = 'T';
+	char tic_tac [3][3]={
+		{' ', ' ', ' ' },
+		{' ', ' ', ' ' },
+		{' ', ' ', ' ' }
+	};
+	
 
 	for(int i=0; i<3;i++){
 		for (int j=0; j<3;j++){
