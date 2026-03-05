@@ -8,7 +8,7 @@ public:
         int t = x;
 		    long long rev = 0;
 		    
-		    // Calculate reverse number rev of a given number n
+		    // Calculate reverse number rev of a given number x
 		    while (t > 0) {
 		        int dig = t % 10;
 		        rev = rev * 10 + dig;
