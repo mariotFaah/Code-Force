@@ -1,0 +1,14 @@
+IA
+ML / DL
+
+Deep Learning: 
+- RNN, CNN, AE, GANs (Generative Adversal Neurones)
+- Mecanisme d attention
+- LLM/Gpt
+--> Tensorflow/Pytorch
+
+Devoir:
+Dataset -> entrainement (sonar, pokedex, fruits apprentissage non supervisee)
+
+classification;
+clustering;
