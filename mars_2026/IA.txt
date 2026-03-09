@@ -12,3 +12,9 @@ Dataset -> entrainement (sonar, pokedex, fruits apprentissage non supervisee)
 
 classification;
 clustering;
+
+Olama => IA tsy misy internet 
+
+Gestion de projet -> mampiasa Notion
+modulable-scalable-manaraka ny norme securitee
+cycle d ingenerie
